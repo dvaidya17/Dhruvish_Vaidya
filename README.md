@@ -1,9 +1,8 @@
 <div id="header" align="center">
   <h1>Hello there, I'm Dhruvish Vaidya </h1>
   <img src="https://img.stablecog.com/insecure/1920w/aHR0cHM6Ly9iLnN0YWJsZWNvZy5jb20vMTg1OGZmMTktMTI4Ny00NWUwLTg5YjEtYzc0ZWUxZjFjYzUzLmpwZWc.webp" width="200" />
-</div>
 
-<div id="badges">
+<div id="badges" style = margin-top : 10px>
   <a href="https://www.linkedin.com/in/dhruvish-vaidya-b5881a153/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -17,4 +16,8 @@
     <img src="https://img.shields.io/badge/Hackerearth-green?style=for-the-badge&logo=hackerearth&logoColor=black" alt="Hackerearth"/>
   </a>
 </div>
+
+</div>
+
+
 
