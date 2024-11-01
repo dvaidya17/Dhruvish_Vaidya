@@ -8,13 +8,13 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://codeforces.com/profile/dvaidya_rk">
-    <img src="https://img.shields.io/badge/Codeforces-white?style=for-the-badge&logo=medium&logoColor=black" alt="Codeforces"/>
+    <img src="https://img.shields.io/badge/Codeforces-white?style=for-the-badge&logo=codeforces&logoColor=black" alt="Codeforces"/>
   </a>
   <a href="https://www.hackerrank.com/profile/dvaidya0317">
-    <img src="https://img.shields.io/badge/HackerRank-navy?style=for-the-badge&logo=tableau&logoColor=white" alt="HackerRank"/>
+    <img src="https://img.shields.io/badge/HackerRank-navy?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
   </a>
   <a href="https://www.hackerearth.com/@dvaidya17/">
-    <img src="https://img.shields.io/badge/Hackerearth-green?style=for-the-badge&logo=tableau&logoColor=black" alt="Hackerearth"/>
+    <img src="https://img.shields.io/badge/Hackerearth-green?style=for-the-badge&logo=hackerearth&logoColor=black" alt="Hackerearth"/>
   </a>
 </div>
 
